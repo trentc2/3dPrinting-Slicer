@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/mymodels">
+        <file>20mm_cube.stl</file>
+	<file>20mm_cube_corrupt.stl</file>
+	<file>Screw large.stl</file>
+    </qresource>
+</RCC>
